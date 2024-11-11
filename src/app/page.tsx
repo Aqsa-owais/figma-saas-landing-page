@@ -123,7 +123,7 @@ export default function Component() {
           </p>
           <div className="pl-[150px]">
             <button className="bg-[#4f9cf9] text-white px-6 py-3 rounded-md hover:bg-[#2D7DED]/90 transition-colors">
-              Let's Go <Image src={icon} alt="icon"className="inline-block w-4 h-4"/>
+              Lets Go <Image src={icon} alt="icon"className="inline-block w-4 h-4"/>
             </button>
           </div>
         </div>
@@ -143,7 +143,7 @@ export default function Component() {
             plugins using the Extension API.
           </p>
           <button className="bg-[#4f9cf9] text-white px-6 py-3 rounded-md hover:bg-[#2D7DED]/90 transition-colors">
-            Let's Go <Image src={icon} alt="icon" className="inline-block w-4 h-4"/>
+            Lets Go <Image src={icon} alt="icon" className="inline-block w-4 h-4"/>
           </button>
         </div>
       </section>
